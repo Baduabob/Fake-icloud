@@ -16,11 +16,11 @@ Do you want the user's Apple ID password, to get access to their Apple account, 
 
 Official popup | Phishing popup
 ----|-----
-<img src="screenshots/SettingsApp.jpg" width="270" /> | <img src="screenshots/PhishingPopup.jpg" width="270" />
+<img src="screenshots/SettingsApp.jpg" /> | <img src="screenshots/PhishingPopup.jpg" />
 
 Random system popup | Phishing popup in app/game
 ----|-----
-<img src="screenshots/RandomPopup.jpg" width="270" /> | <img src="screenshots/InGame.jpg" width="270" />
+<img src="screenshots/RandomPopup.jpg" /> | <img src="screenshots/InGame.jpg" />
 
 ## Disclaimer
 
@@ -48,7 +48,7 @@ Initially I thought, faking those alerts requires the app developer to know your
 
 Official popup without email | Phishing popup without email
 ----|-----
-<img src="screenshots/NoEmail.jpg" width="270" /> | <img src="screenshots/NoEmailPhishing.jpg" width="270" />
+<img src="screenshots/NoEmail.jpg" /> | <img src="screenshots/NoEmailPhishing.jpg" />
 
 ## Proposal
 
