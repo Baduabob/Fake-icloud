@@ -66,7 +66,7 @@ Sometimes iOS shows the following notification on the lock screen, which opens u
 
 ## Complexity
 
-Showing a dialog that looks just like a system popup is super easy, there is no magic or secret code involved, it's literally the examples provided in the Apple docs, with a custom text. 
+Showing a dialog that looks just like a system popup is super easy, there is no magic or secret code involved, it's literally the examples provided in the Apple docs, with a custom text (and Unicode quote characters). 
 
 I decided not to open source the actual popup code, however, note that it's less than 30 lines of code and every iOS engineer will be able to quickly build their own phishing code.
 
@@ -115,4 +115,3 @@ This project is licensed under the terms of the MIT license. See the [LICENSE](L
 Idea from [@tapbot_paul](https://twitter.com/tapbot_paul) via [this tweet](https://twitter.com/tapbot_paul/status/908067480568045568).
 
 [@tapbot_paul](https://twitter.com/tapbot_paul) and I [tweeted about this issue multiple times](https://twitter.com/KrauseFx/status/908204812122165248) a while ago.
-
